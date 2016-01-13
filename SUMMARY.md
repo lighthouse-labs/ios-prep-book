@@ -19,7 +19,7 @@ This is the summary of my book.
     * [Todo list (Part 3)](section2/1.4.md)
     * [Todo list (Part 4)](section2/1.5.md)
     * [Assignment #1](section2/1.6.md)
-    * [Assignment #1](section2/1.7.md)
+    * [Assignment #2](section2/1.7.md)
 * [Using Git & GitHub for source control](section3/README.md)
     * [Setting up Git](section3/1.1.md)
     * [Git basics](section3/1.2.md)
