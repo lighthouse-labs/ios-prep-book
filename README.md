@@ -33,7 +33,6 @@ The prep course is due 1 week before the bootcamp starts. This allows for time t
 As you are progressing through the course you will be required to submit various assignments. Here is the list of assignments that will require submission.
 
   - FizzBuzz
-  - FuzzBizzNezz **(REMOVE THIS)**
   - Toyota's are Cars too!
   - Find the Largest Number in an Array
 
