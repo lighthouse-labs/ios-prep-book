@@ -37,7 +37,13 @@ As you are progressing through the course you will be required to submit various
   - Toyota's are Cars too!
   - Find the Largest Number in an Array
 
-For each of these, please email the Github repository url *(Git is explained in section 4)* to **ios-prep@lighthouselabs.ca**.
+For each of these, please submit the Github URL to us *(Git is explained in section 4)*.
+
+Vancouver students please email ios-prep-vancouver@lighthouselabs.ca with the URLs. 
+Toronto students please email ios-prep-toronto@lighthouselabs.ca with the URLs. 
+
+Important: Please include your Name and Cohort in the subject of the email (ie: Prep Submission -- John Doe, Jan 11, 2016).
+
 
 ##### Where to Get Help
 If you don't understand or get stuck on something, as a registered Lighthouse Labs student you have (or will soon receive) access to our private [iOS Prep Discussion Forum](http://ios-prep.lighthouselabs.ca/login). Please contact the admissions person you are in contact with if you feel you should have access but have not received it yet.
