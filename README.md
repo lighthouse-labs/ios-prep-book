@@ -1,4 +1,4 @@
-# Lighthouse Labs - iOS Prep Course
+# ![Lighthouse Logo](/images/lhl-logo.png)
 
 -----
 
