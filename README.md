@@ -39,10 +39,11 @@ As you are progressing through the course you will be required to submit various
 
 For each of these, please submit the Github URL to us *(Git is explained in section 4)*.
 
-Vancouver students please email ios-prep-vancouver@lighthouselabs.ca with the URLs. 
-Toronto students please email ios-prep-toronto@lighthouselabs.ca with the URLs. 
+Vancouver students please email <ios-prep-vancouver@lighthouselabs.ca> with the URLs. 
 
-Important: Please include your Name and Cohort in the subject of the email (ie: Prep Submission -- John Doe, Jan 11, 2016).
+Toronto students please email <ios-prep-toronto@lighthouselabs.ca> with the URLs. 
+
+**Important:** Please include your Name and Cohort in the subject of the email (ie: _Prep Submission -- John Doe, Jan 11, 2016_).
 
 
 ##### Where to Get Help
