@@ -1,5 +1,4 @@
 # Objective C
-###### Estimated time for completion: 15 hours
 
 ### Introduction
 So, now that we learned some programming, it would be good to know what exactly is object-oriented programming? In a 1994 interview with the Rolling Stone magazine, Steve Jobs described it in the following way:
@@ -14,3 +13,16 @@ You have no idea how I did that. You have no knowledge of the laundry place. May
 For the complete interview, [click here](http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117)
 
 We will be learning Objective-C and Swift in class, two object-oriented languages, that allows us the flexibility to built complex apps in much less time than using a procedural language such as C.
+
+---
+### Important
+
+In order to complete this section of the prep you will need to understand basic object oriented programming and how it ties into Objective-C and C.
+
+Read these guides by Apple before you make an attempt!
+
+[Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+
+[Core competencies](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html)
+
+[iOS technology overview](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html)
