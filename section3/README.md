@@ -1,5 +1,4 @@
 #### Git & Github
-###### Estimated time for completion: 5 hours
 
 **Introduction**
 

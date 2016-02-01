@@ -1,7 +1,5 @@
 # ![Lighthouse Logo](/images/lhl-logo.png)
 
------
-
 #### Welcome!
 
 Welcome to Lighthouse Labs. You are here to get prepared for your immersive iOS bootcamp. We are super excited to have you.
