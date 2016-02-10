@@ -57,6 +57,9 @@ Basically, If you don't understand or get stuck on something. You are expected t
 
 As a general rule of thumb, **if you are stuck on something for more than 30 min** you should go to the forum for help. Chances are somebody else is stuck, or has been stuck in the same spot.
 
+#### Required Laptop Specs
+We require you to bring either a MacBook Pro or MacBook Air, running the most current Mac OS X. Laptops should be no more than 3 years old with a minimum of 4 GB of RAM. Monitor size is less important because we do have some external monitors on-site, but 13 inches is as small as you should go.
+
 ----
 
 #### Before you get started
