@@ -70,7 +70,7 @@ The Terminal is a program included with all versions of Mac OS X. It is located 
 ##### ![Xcode](/images/xcode.png) 2. Download: Xcode
 Xcode is the main IDE that developers use to make applications for Mac, iPhone, and iPad. Xcode is critical for building iOS applications.
 
-[Download Xcode 7.2](https://developer.apple.com/xcode/download/) *Do not download the version of Xcode that is in Beta*
+[Download Xcode 7.3](https://developer.apple.com/xcode/download/) *Do not download the version of Xcode that is in Beta*
 
 
 ##### ![Github](/images/github.png) 3. Signup for a GitHub Account
