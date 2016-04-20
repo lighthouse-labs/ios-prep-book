@@ -25,7 +25,7 @@ We ask that you set aside a total of 40 hours for this prep course.
 We'll be contacting you regularly to setup Skype/Google Hangout conversations to see how things are going.
 
 **Due Date:**
-The prep course is due 1 week before the bootcamp starts. This allows for time to give you feedback on the submitted work to make sure you are ready for Day 1
+The prep course is due 2 weeks before the bootcamp starts. This allows for time to give you feedback on the submitted work to make sure you are ready for Day 1.
 
 **Submitting Your Work:**
 As you are progressing through the course you will be required to submit various assignments. Here is the list of assignments that will require submission.
