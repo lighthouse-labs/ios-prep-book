@@ -15,6 +15,7 @@ For the complete interview, [click here](http://www.rollingstone.com/culture/new
 We will be learning Objective-C and Swift in class, two object-oriented languages, that allows us the flexibility to built complex apps in much less time than using a procedural language such as C.
 
 ---
+
 ### Important
 
 In order to complete this section of the prep you will need to understand basic object oriented programming and how it ties into Objective-C and C.

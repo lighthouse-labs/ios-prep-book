@@ -1,5 +1,5 @@
 # Getting setup
----
+----
 
 ![Stack](/images/setup.png)
 
