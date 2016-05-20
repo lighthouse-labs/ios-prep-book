@@ -37,9 +37,9 @@ As you are progressing through the course you will be required to submit various
 
 For each of these, please submit the Github URL to us *(Git is explained in section 4)*.
 
-Vancouver students please email <ios-prep-vancouver@lighthouselabs.ca> with the URLs. 
+Vancouver students please email <ios-prep-vancouver@lighthouselabs.ca> with the URLs.
 
-Toronto students please email <ios-prep-toronto@lighthouselabs.ca> with the URLs. 
+Toronto students please email <ios-prep-toronto@lighthouselabs.ca> with the URLs.
 
 **Important:** Please include your Name and Cohort in the subject of the email (ie: _Prep Submission -- John Doe, Jan 11, 2016_).
 
@@ -60,7 +60,7 @@ As a general rule of thumb, **if you are stuck on something for more than 30 min
 #### Required Laptop Specs
 We require you to bring either a MacBook Pro or MacBook Air, running the most current Mac OS X. Laptops should be no more than 3 years old with a minimum of 4 GB of RAM. Monitor size is less important because we do have some external monitors on-site, but 13 inches is as small as you should go.
 
-----
+-----
 
 #### Before you get started
 
@@ -79,7 +79,7 @@ Please signup for an account on [GitHub](http://github.com)
 
 **Recommendation:** Your GitHub profile will be a big part of your online persona as a developer. So try to pick a good username (instead of something like *::dan49123::*).
 
-----
+-----
 
 ##### Let's Get Started
 This material is broken out into 6 sections which introduce you their respective topics:
