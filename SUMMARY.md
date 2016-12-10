@@ -6,7 +6,7 @@
     * [Setup Xcode](section0/0.2.md)
     * [Setup Terminal](section0/setup-terminal.md)
     * [Setting up GitHub](section0/0.4.md)
-    * [Setup Git](section0/0.3.md)
+    * [Setup Git & Connecting GitHub](section0/0.3.md)
 * [Introduction to Programming C](section1/README.md)
     * [Writing your first C program](section1/1.1.md)
     * [Clarifying your code](section1/1.2.md)
