@@ -1,7 +1,7 @@
 # Objective C
 
 ### Introduction
-So, now that we learned some programming, it would be good to know what exactly is object-oriented programming? In a 1994 interview with the Rolling Stone magazine, Steve Jobs described it in the following way:
+Now that we have learned some programming, it would be good to know what exactly object-oriented programming is. In a 1994 interview with the Rolling Stone magazine, Steve Jobs described it in the following way:
 
 "Objects are like people. They're living, breathing things that have knowledge inside them about how to do things and have memory inside them so they can remember things. And rather than interacting with them at a very low level, you interact with them at a very high level of abstraction, like we're doing right here.
 
@@ -12,18 +12,18 @@ You have no idea how I did that. You have no knowledge of the laundry place. May
 
 For the complete interview, [click here](http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117)
 
-We will be learning Objective-C and Swift in class, two object-oriented languages, that allows us the flexibility to built complex apps in much less time than using a procedural language such as C.
+We will be learning Objective-C and Swift in class, two object-oriented languages. These languages allows us the flexibility to built complex apps in much less time than using a procedural language such as C.
 
 ----
 
 ### Important
 
-In order to complete this section of the prep you will need to understand basic object oriented programming and how it ties into Objective-C and C.
+In order to complete this section of the prep you will need to understand basic object oriented programming and how it ties into Objective-C and C. 
 
-Read these guides by Apple before you make an attempt!
+Please view the following video that explains some of these concepts at a hight level:
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/lbXsrHGhBAU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Also, read this document by Apple:
 
 [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-
-[Core competencies](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html)
-
-[iOS technology overview](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html)
