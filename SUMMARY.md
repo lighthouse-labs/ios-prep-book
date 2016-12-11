@@ -18,9 +18,9 @@
     * [Interacting With Users](section1/1.8.md)
     * [Assignment \#2](section1/1.9.md)
 * [Introduction to Objective-C](section4/README.md)
-    * [Big Nerd Ranch](section4/4.1.md)
-    * [Lynda.com Essential Training](section4/4.2.md)
+    * [Lynda.com Objective-C Essential Training](section4/4.2.md)
     * [Code School](section4/4.3.md)
+    * [Big Nerd Ranch](section4/4.1.md)
     * [Assignment \#3](section4/2.6.md)
     * [Assignment \#4](section4/2.7.md)
     * [Pushing to Github](section4/2.8.md)
@@ -33,4 +33,3 @@
     * [Apple Guides](section3/3.1.md)
     * [Great Videos](section3/3.2.md)
     * [C Videos](section3/3.3.md)
-
