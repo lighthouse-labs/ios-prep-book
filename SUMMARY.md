@@ -24,7 +24,6 @@
     * [Todo List \(Part 3\)](section2/2.4.md)
     * [Assignment \#1](section2/2.6.md)
     * [Assignment \#2](section2/2.7.md)
-* [Using Git & GitHub](section3/README.md)
     * [Pushing to Github](section3/3.1.md)
 * [Extra Resources](section4/README.md)
     * [Apple Guides](section4/4.1.md)
