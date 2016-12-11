@@ -25,8 +25,8 @@
     * [Assignment \#1](section2/2.6.md)
     * [Assignment \#2](section2/2.7.md)
     * [Pushing to Github](section2/2.8.md)
-* [Extra Resources](section4/README.md)
-    * [Apple Guides](section4/4.1.md)
-    * [Great Videos](section4/4.2.md)
-    * [C Videos](section4/4.3.md)
+* [Extra Resources](section3/README.md)
+    * [Apple Guides](section3/3.1.md)
+    * [Great Videos](section3/3.2.md)
+    * [C Videos](section3/3.3.md)
 

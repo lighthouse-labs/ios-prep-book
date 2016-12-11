@@ -1,6 +1,6 @@
 # Objective C
 
-### Introduction
+### Introduction to Objects
 Now that we have learned some programming, it would be good to know what exactly object-oriented programming is. In a 1994 interview with the Rolling Stone magazine, Steve Jobs described it in the following way:
 
 "Objects are like people. They're living, breathing things that have knowledge inside them about how to do things and have memory inside them so they can remember things. And rather than interacting with them at a very low level, you interact with them at a very high level of abstraction, like we're doing right here.
