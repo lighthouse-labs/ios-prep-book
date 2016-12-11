@@ -8,12 +8,18 @@
 
 <img src="/images/bnr.jpg" alt="Big Nerd Ranch Objective-C">
 
+* Please work through the following additional but essential chapters.
+
 `20. Preventing Memory Leaks`<br>
 `22. Constants`<br>
 `23. Writing Files With NSString and NSData`<br>
 `24. CallBacks`<br>
 `25. Protocols`<br>
 
+# Git Magic
+* This is an excellent intermediate resource for Git. You can review this and bookmark it for future use  [here](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+
 # Where Do ViewControllers Come From
+* This is a brilliant video on the basics of view controllers in iOS.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zIufcKpDIRo?rel=0" frameborder="0" allowfullscreen></iframe>
