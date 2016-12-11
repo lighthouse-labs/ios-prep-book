@@ -69,8 +69,7 @@ We require you to bring a portable Mac computer running either Yosemite or Sierr
 1. Getting setup
 2. Introduction to Programming with C
 3. Introduction to Programming with Objective C
-4. Understanding Github
-5. Extra resources
+4. Extra resources
 
 **Onwards!**
 
