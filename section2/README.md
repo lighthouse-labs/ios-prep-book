@@ -12,7 +12,7 @@ You have no idea how I did that. You have no knowledge of the laundry place. May
 
 For the complete interview, [click here](http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117)
 
-We will be learning Objective-C and Swift in class, two object-oriented languages. These languages allows us the flexibility to built complex apps in much less time than using a procedural language such as C.
+We will be learning Objective-C and Swift in class, two object-oriented languages. These languages allow us the flexibility to built complex apps in much less time than using a procedural language such as C.
 
 ----
 
