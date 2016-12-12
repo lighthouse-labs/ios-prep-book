@@ -46,7 +46,7 @@ Toronto students please email [ios-prep-toronto@lighthouselabs.ca](mailto:ios-pr
 
 ##### Where to Get Help
 
-As a registered Lighthouse Labs student, if you don't understand or get stuck on something,  have access to our private [iOS Prep Discussion Forum](http://ios-prep.lighthouselabs.ca/login). Please contact the admissions person you've been in contact with to gain forum access if you have not yet received.
+As a registered Lighthouse Labs student, if you don't understand or get stuck on something, you have access to our private [iOS Prep Discussion Forum](http://ios-prep.lighthouselabs.ca/login). Please contact the admissions person you've been in contact with to gain forum access if you have not yet received.
 
 This private discussion forum exists solely for students preparing for the bootcamp. You can seek out prep course assistance from course instructors, mentors and fellow students on the forum. If youre question has not been already addressed please submit it as a new Topic \(one problem per topic please; feel free to create multiple topics if you are stuck in multiple places\). You should receive an e-mail notification for any posted replies.
 
