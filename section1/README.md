@@ -7,4 +7,8 @@ iOS applications are written in Objective-C (as well as the newly introduced Swi
 ### C
 C is an efficient and relatively small programming language. In other words, you don't have to learn many *commands* in C. Throughout this section, you will learn about C commands. and other elements of the C language, such as operators, loops and functions.
 
-Let’s write our first C program!
+Before we write our first C program I recommend the following brief video series that will introduce you to the language. The final video in the series is not required.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rk2fK2IIiiQ?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs" frameborder="0" allowfullscreen></iframe>
+
+
