@@ -1,4 +1,4 @@
-# ![Lighthouse Logo](/images/lhl-logo.png)
+# ![Lighthouse Labs iOS Prep Course](/images/lhl-logo.png)
 
 #### Welcome!
 
@@ -16,10 +16,11 @@ By the end of this prep course, you will, among other things:
 4. Get started with some basic C programming
 5. Learn Objective-C and basic object oriented programming
 6. Work on a simple ToDo app that you will be able to run on your iPhone
+7. Utilize a curated list of programming resources to prepare you for boot camp
 
 #### Expectations & Commitment
 
-You are required to _complete everything_ in this prep course: Without doing it, you may fall behind in class.
+You are required to _complete everything_ in this prep course. The additional resources section is not required. Without adequate preparation you may fall behind in class.
 
 We ask that you set aside a total of 40 hours for this prep course.
 
@@ -30,7 +31,7 @@ We'll be contacting you regularly to setup Skype/Google Hangout conversations to
 The prep course is due 2 weeks before the bootcamp starts. This allows for time to give you feedback on the submitted work to make sure you are ready for Day 1.
 
 **Submitting Your Work:**  
-As you are progressing through the course you will be required to submit various assignments. Here is the list of assignments that will require submission.
+As you are progressing through the course you will be required to submit 4 assignments. Here is the list of assignments that will require submission.
 
 * FizzBuzz
 * Two doors
@@ -47,11 +48,11 @@ Toronto students please email [ios-prep-toronto@lighthouselabs.ca](mailto:ios-pr
 
 ##### Where to Get Help
 
-As a registered Lighthouse Labs student, if you don't understand or get stuck on something, you have access to our private [iOS Prep Discussion Forum](http://ios-prep.lighthouselabs.ca/login). Please contact the admissions person you've been in contact with to gain forum access if you have not yet received.
+As a registered Lighthouse Labs student, if you don't understand or get stuck on something, you will have access to our private [iOS Prep Discussion Forum](http://ios-prep.lighthouselabs.ca/login). If you have not yet received forum access please contact admissions.
 
-This private discussion forum exists solely for students preparing for the bootcamp. You can seek out prep course assistance from course instructors, mentors and fellow students on the forum. If youre question has not been already addressed please submit it as a new Topic \(one problem per topic please; feel free to create multiple topics if you are stuck in multiple places\). You should receive an e-mail notification for any posted replies.
+This private discussion forum exists solely for students preparing for the bootcamp. You can seek out prep course assistance from course instructors, mentors and fellow students on the forum. If yourZ question has not been already addressed please submit it as a new Topic \(one problem per topic please; feel free to create multiple topics if you are stuck in multiple places\). You should receive an e-mail notification for any posted replies.
 
-You are encouraged to discuss your progress and challenges on the forum. The more you do this, the better prepared you'll be for class. You may want to even try tackling any unanswered posted questions.
+You are encouraged to discuss your progress and challenges on the forum. The more you do this, the better prepared you'll be for class. You may want to even try tackling any unanswered questions posted by others.
 
 #### When to Ask for Help
 
@@ -61,16 +62,17 @@ As a rule of thumb, **if you are stuck on something for more than 30 min** you s
 
 #### Required Laptop Specs
 
-We require you to bring a portable Mac computer running either Yosemite or Sierra. Your computer must have a minimum of 4 GBs or RAM, but 8 or more is recommended. \(Macs that do not have Solid State drives or Hybrid drives will experience slow compile times, which could prove annoying\).
+We require you to bring a portable Mac computer running either Yosemite or Sierra. Your computer must have a minimum of 4 GBs or RAM, but 8 or more is recommended. \(Macs that do not have Solid State drives or Hybrid drives will experience slow compile times, which may be annoying\).
 
 ---
 
-##### This Prep Course is Divided Into The Following 6 Sections:
+##### This Prep Course is Divided Into The Following 4 Sections:
 
 1. Getting setup
 2. Introduction to Programming with C
-3. Introduction to Programming with Objective C
-4. Extra resources
+3. Introduction to Objective C
+4. Building a ToDo List App
+5. Extra resources
 
 **Onwards!**
 

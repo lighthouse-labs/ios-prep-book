@@ -9,7 +9,9 @@
 `26. Property Lists`<br>
 
 `Part V: Advanced Objective-C`<br>
-> Especially init, Properties, Categories, Blocks
+
+* See especially `init`, `Properties, `Categories`, `Blocks`
+
 `Part IV Event Driven Applications`<br>
 
 `27. Your First iOS Application`<br>
