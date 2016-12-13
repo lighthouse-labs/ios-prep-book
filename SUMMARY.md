@@ -32,3 +32,5 @@
 * [Additional Resources](section3/README.md)
     * [Nice To Have](section3/nice-to-have.md)
     * [Stretch](section3/strech.md)
+* [Change Log](change-log.md)
+
