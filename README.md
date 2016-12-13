@@ -8,13 +8,14 @@ Welcome to Lighthouse Labs. You are here to get prepared for your immersive iOS 
 
 This prep course is designed to get you prepared for class. It will teach you the fundamentals of programming an iOS application so that you can hit the ground running when you get here.
 
-By the end of this prep course, you will:
+By the end of this prep course, you will, among other things:
 
-1. Setup a development environment on your computer for iOS development with Xcode
+1. Setup a development environment
 2. Create your GitHub profile
 3. Utilize Git for source control to commit and push your code changes to GitHub
-4. Use Object-Oriented Programming to create simple programs in Xcode
-5. Put the app you create on your own phone
+4. Get started with some basic C programming
+5. Learn Objective-C and basic object oriented programming
+6. Work on a simple ToDo app that you will be able to run on your iPhone
 
 #### Expectations & Commitment
 
@@ -36,7 +37,7 @@ As you are progressing through the course you will be required to submit various
 * Toyota's are Cars too!
 * Find the Largest Number in an Array
 
-For each of these, please submit the Github URL to us _\(Git is explained in section 4\)_.
+For each of these, please submit the GitHub URL to us _\(Git and GitHub are both explained in the "Getting Setup" section of this prep course\)_.
 
 Vancouver students please email [ios-prep-vancouver@lighthouselabs.ca](mailto:ios-prep-vancouver@lighthouselabs.ca) with the URLs.
 
