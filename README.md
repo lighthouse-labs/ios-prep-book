@@ -24,18 +24,18 @@ You are required to _complete everything_ in this prep course. The additional re
 
 We ask that you set aside a total of 40 hours for this prep course.
 
-**Touchpoint meetings:**  
+**Touchpoint meetings:**
 We'll be contacting you regularly to setup Skype/Google Hangout conversations to see how things are going.
 
-**Due Date:**  
+**Due Date:**
 The prep course is due 2 weeks before the bootcamp starts. This allows for time to give you feedback on the submitted work to make sure you are ready for Day 1.
 
-**Submitting Your Work:**  
+**Submitting Your Work:**
 As you are progressing through the course you will be required to submit 4 assignments. Here is the list of assignments that will require submission.
 
 * FizzBuzz
 * Two doors
-* Toyota's are Cars too!
+* Toyotas are Cars too!
 * Find the Largest Number in an Array
 
 For each of these, please submit the GitHub URL to us _\(Git and GitHub are both explained in the "Getting Setup" section of this prep course\)_.
