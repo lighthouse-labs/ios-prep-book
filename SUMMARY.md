@@ -32,6 +32,7 @@
     * [Properties](section4/4.12.md)
     * [Initializers](section4/4.13.md)
     * [Inheritance](section4/4.14.md)
+    * [More Resources](section4/4.15.md)
     * [Assignment #3](section4/2.6.md)
     * [Assignment #4](section4/2.7.md)
     * [Pushing to Github](section4/2.8.md)
