@@ -28,6 +28,7 @@
     * [Collections](section4/4.8.md)
     * [Creating Custom Classes](section4/4.9.md)
     * [Custom Methods](section4/4.10.md)
+    * [Instance Variables](section4/4.11.md)
     * [Assignment #3](section4/2.6.md)
     * [Assignment #4](section4/2.7.md)
     * [Pushing to Github](section4/2.8.md)
