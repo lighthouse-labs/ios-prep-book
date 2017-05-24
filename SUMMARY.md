@@ -24,6 +24,7 @@
     * [Let's Get Started](section4/4.4.md)
     * [Primitive Data Types](section4/4.5.md)
     * [Intro to Objects and NSString](section4/4.6.md)
+    * [More Objects](section4/4.7.md)
     * [Assignment #3](section4/2.6.md)
     * [Assignment #4](section4/2.7.md)
     * [Pushing to Github](section4/2.8.md)
