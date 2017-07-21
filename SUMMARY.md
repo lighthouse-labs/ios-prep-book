@@ -19,7 +19,6 @@
     * [Assignment #2](section1/1.9.md)
 * [Introduction to Objective-C](section4/README.md)
     * [Lynda.com Objective-C Essential Training](section4/4.2.md)
-    * [Code School](section4/4.3.md)
     * [Big Nerd Ranch](section4/4.1.md)
     * [Let's Get Started](section4/4.4.md)
     * [Primitive Data Types](section4/4.5.md)
