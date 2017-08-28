@@ -12,9 +12,9 @@
 
 * We find that starting with Objective-C is a more logical place to start, since Swift builds on many of the core ideas of Objective-C.
 
-* In this next section we have 3 main resources to get you up to speed on Objective-C.
+* In this next section we have 2 main resources to get you up to speed on Objective-C.
 
-* These are a video series, an interactive web based series and an excellent written resource.
+* These are a video series and an excellent written resource.
 
 * The order of presentation is just a suggestion. Feel free to change the order to suit your own learning style.
 
