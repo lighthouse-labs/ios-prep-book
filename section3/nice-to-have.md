@@ -16,6 +16,14 @@
 `24. CallBacks`<br>
 `25. Protocols`<br>
 
+# More Lynda
+
+* Please work through the following additional but essential sections.
+
+[`9. Working with files`](https://www.lynda.com/Objective-C-tutorials/Introduction-file-management/143328/157010-4.html?srchtrk=index%3a8%0alinktypeid%3a2%0aq%3aobjective+c%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)<br>
+[`10. Language Features`](https://www.lynda.com/Objective-C-tutorials/Inheritance-overriding-Objective-C/143328/157017-4.html?srchtrk=index%3a8%0alinktypeid%3a2%0aq%3aobjective+c%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)<br>
+[`11. Errors and Debugging`](https://www.lynda.com/Objective-C-tutorials/Common-compile-time-errors-warnings/143328/157023-4.html?srchtrk=index%3a8%0alinktypeid%3a2%0aq%3aobjective+c%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)<br>
+
 # Git Magic
 * This is an excellent intermediate resource for Git. You can review this and bookmark it for future use  [here](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
